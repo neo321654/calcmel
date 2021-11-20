@@ -48,7 +48,7 @@ workflows:
         XCODE_WORKSPACE: "Runner.xcworkspace"
         XCODE_SCHEME: "Runner"
         BUNDLE_ID: "com.spotolcom.melCalc" # <-- Put your bundle id here
-        APP_STORE_ID: TJT8CZ5YR2 # <-- Use the TestFlight Apple id number (An automatically generated ID assigned to your app) found under General > App Information > Apple ID.
+        APP_STORE_ID: MW924APR4Z # <-- Use the TestFlight Apple id number (An automatically generated ID assigned to your app) found under General > App Information > Apple ID.
       flutter: stable
       xcode: latest
       cocoapods: default
